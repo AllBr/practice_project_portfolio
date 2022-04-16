@@ -35,7 +35,7 @@
         ]
       },
       {
-        "title": "BussMall",
+        "title": "BusMall",
         "startDate": "2022",
         "description": "Allows the user to select their favorite images, and keeps track of history. A cool way to show-off JS interactivity as well as an API chart.js",
         "images": [
@@ -81,37 +81,31 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "",
+        "title": "Software Developer",
+        "years": "01.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "MERN, Java"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Python"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "US Air Force",
+        "title": "Airborne Systems Analyst",
+        "years": "01.2009 - 09.2017",
         "mainTech": [
-          "Angular 7/8"
+          "Weapons Systems"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Jamming",
+          "EW",
+          "Excel",
+          "JavaScript"
         ]
       }
     ]
