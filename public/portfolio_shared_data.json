@@ -9,9 +9,9 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com/coding",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/allenbrazier/",
+          "class": "fab fa-linkedin-in"
         }
       ],
       "image": "myProfile.jpg"
